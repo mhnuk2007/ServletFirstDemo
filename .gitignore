@@ -1,0 +1,44 @@
+# Eclipse files
+
+.classpath
+
+.project
+
+.settings/
+
+
+# Build directories
+
+build/
+
+target/
+
+
+# System files
+
+.DS_Store
+
+*.log
+
+# Eclipse files
+
+.classpath
+
+.project
+
+.settings/
+
+
+# Build directories
+
+build/
+
+target/
+
+
+# System files
+
+.DS_Store
+
+*.log
+
